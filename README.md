@@ -2,8 +2,8 @@
 
 My name is Yvonne and here's a little about me:
 
-- 🔭 I’m currently working with the CBF Academy and I'm on an Entry to Tech bootcamp training to become a software engineer!🤓
-- 🌱 I’m mostly focused on learning the fundamentals at the moment, but I'm looking forward to being more knowledgable as the bootcamp progresses on and I make the transition into the tech world!
+- 🔭 I’ve recently completed an Entry to Tech bootcamp in collaboration with Coding Black Females and UBS to learn more about software engineering & development utilising the Java programming language!🤓
+- 🌱 I’m mostly focused on learning the fundamentals at the moment, but I'm looking forward to being more knowledgable as I'm exposed to more projects!
 - ⚡ Fun facts: My favourite colour is orange and I don't like hot drinks!
 
 Looking forward to collaborating in the near future! 😁
